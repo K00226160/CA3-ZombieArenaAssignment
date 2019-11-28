@@ -13,11 +13,11 @@
 *.userprefs
 
 # Build results
-#[Dd]ebug/
+[Dd]ebug/
 [Dd]ebugPublic/
 [Rr]elease/
 [Rr]eleases/
-x64/
+#x64/
 x86/
 bld/
 [Bb]in/
@@ -67,7 +67,7 @@ StyleCopReport.xml
 *.iobj
 *.pch
 *.pdb
-*.ipdb
+#*.ipdb
 *.pgc
 *.pgd
 *.rsp
@@ -89,7 +89,7 @@ StyleCopReport.xml
 _Chutzpah*
 
 # Visual C++ cache files
-ipch/
+#ipch/
 *.aps
 *.ncb
 *.opendb
